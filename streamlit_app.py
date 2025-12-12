@@ -73,4 +73,4 @@ else:
     st.subheader('放物線の情報')
     st.write(f'頂点 (h, k) = ({h:.6f}, {k:.6f})')
     st.write(f'対称軸 x = {h:.6f}')
-    st.write(f'開き: {"上に開く (a>0)" if a>0 else "下に開く (a<0)
+    st.write(f'開き: {"上に開く (a>0)" if a>0 else "下に開く (a<0)}')
